@@ -1,0 +1,2 @@
+# scripting
+automation using pthon
